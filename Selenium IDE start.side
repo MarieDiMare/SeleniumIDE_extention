@@ -1,0 +1,153 @@
+{
+  "id": "723f4617-1bb3-436d-8eae-ceda23c3b281",
+  "version": "2.0",
+  "name": "Selenium IDE start",
+  "url": "https://sites.google.com/view/mariedimaresfunhouse/funhouse-menu/form-for-ide",
+  "tests": [{
+    "id": "b048778b-e2a3-4f41-9600-2c6304a39a34",
+    "name": "Untitled",
+    "commands": []
+  }, {
+    "id": "42506e02-ad82-4324-885f-edd907410820",
+    "name": "Filling the form",
+    "commands": [{
+      "id": "c61750ff-25d4-4129-ab2e-8588ff833170",
+      "comment": "",
+      "command": "open",
+      "target": "https://sites.google.com/view/mariedimaresfunhouse/funhouse-menu/form-for-ide",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "445b8dbd-b48b-4fc2-832b-c4f46bb9f473",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c307f43e-6cbd-43be-a7ec-51d0e2efd7b7",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "c6368e2a-e1d0-439f-a52f-499307f6cde6",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "48bac7fb-13b5-4081-a312-e15767f87868",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "c4f7c0f0-5428-421a-aa7e-8ad2509c3aff",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "4c93fccb-a8ee-44de-a12a-63043094f9ac",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div/div/div/div[2]/div/div/span/div/div/label/div/div[2]/div/span",
+      "targets": [
+        ["css=.nWQGrd:nth-child(1) .aDTYNe", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div/div/div/div[2]/div/div/span/div/div/label/div/div[2]/div/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e6c6035f-d074-4746-8f98-c7fba1993b76",
+      "comment": "",
+      "command": "click",
+      "target": "css=.whsOnd",
+      "targets": [
+        ["css=.whsOnd", "css:finder"],
+        ["xpath=//input[@type='text']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "baf0f38a-2e7e-4a8b-901d-28c7c18f2da5",
+      "comment": "",
+      "command": "type",
+      "target": "css=.whsOnd",
+      "targets": [
+        ["css=.whsOnd", "css:finder"],
+        ["xpath=//input[@type='text']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "When I was walking on streen, old man wanted to put trash in container and some pieces fell on the ground. So I picked it up for him and wish him a good day. He smiled and was grateful."
+    }, {
+      "id": "d7f6daad-1a2b-45d7-ac93-5f78f6b88d54",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,54)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a560f615-e65f-47ef-8a49-abb2e4f00b7a",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div[4]/div/div/div[2]/div/span/div/label/div[2]/div/div/div[3]/div",
+      "targets": [
+        ["css=.qs41qe .AB7Lab", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div[4]/div/div/div[2]/div/span/div/label/div[2]/div/div/div[3]/div", "xpath:idRelative"],
+        ["xpath=//label/div[2]/div/div/div[3]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8483c7bf-3131-4a94-bd41-b73dc38eb5cf",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span",
+      "targets": [
+        ["css=.Y5sE8d .NPEfkd", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/div/span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "848d370a-96f0-4aa1-8f5f-ec6b552db028",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Odeslat další odpověď",
+      "targets": [
+        ["linkText=Odeslat další odpověď", "linkText"],
+        ["css=.c2gzEf > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Odeslat další odpověď')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSdW8xU_t3TnqfThiOLBCUMZ2rYRjce7_DoEw7IkbF5lutzlaw/viewform?embedded=true&usp=form_confirm')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'Odeslat další odpověď')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "11a77dfb-b4d3-4dfc-bae4-7628582a3bf5",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["b048778b-e2a3-4f41-9600-2c6304a39a34"]
+  }],
+  "urls": ["https://sites.google.com/view/mariedimaresfunhouse/funhouse-menu", "https://sites.google.com/view/mariedimaresfunhouse/funhouse-menu/form-for-ide"],
+  "plugins": []
+}
