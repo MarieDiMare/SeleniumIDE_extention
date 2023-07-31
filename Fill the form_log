@@ -1,0 +1,42 @@
+# Running 'Filling the form'
+10:52:21
+1.
+open on https://sites.google.com/view/mariedimaresfunhouse/funhouse-menu/form-for-ide OK
+10:52:23
+2.
+setWindowSize on 1936x1056 OK
+10:52:23
+3.
+selectFrame on index=0 OK
+10:52:23
+4.
+selectFrame on index=0 OK
+10:52:24
+5.
+selectFrame on index=0 OK
+10:52:25
+6.
+selectFrame on index=0 OK
+10:52:27
+7.
+click on xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div/div/div/div[2]/div/div/span/div/div/label/div/div[2]/div/span OK
+10:52:29
+8.
+click on css=.whsOnd OK
+10:52:30
+9.
+type on css=.whsOnd with value When I was walking on streen, old man wanted to put trash in container and some pieces fell on the ground. So I picked it up for him and wish him a good day. He smiled and was grateful. OK
+10:52:31
+10.
+runScript on window.scrollTo(0,54) OK
+10:52:32
+11.
+click on xpath=//form[@id='mG61Hd']/div[2]/div/div[2]/div[4]/div/div/div[2]/div/span/div/label/div[2]/div/div/div[3]/div OK
+10:52:33
+12.
+click on xpath=//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span OK
+10:52:34
+13.
+click on linkText=Odeslat další odpověď OK
+10:52:35
+# 'Filling the form' completed successfully
